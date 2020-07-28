@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AngularJS
 
-- 📫 How to reach me: twitter (https://twitter.com/ManishSamrats), Instagram (https://instagram.com/manish_samrat_)
+- 📫 How to reach me: [twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
