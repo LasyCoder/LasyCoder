@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning AngularJS
+
+- 📫 How to reach me: twitter (https://twitter.com/ManishSamrats), Instagram (https://instagram.com/manish_samrat_)
