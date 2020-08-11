@@ -10,14 +10,23 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: twitter (https://twitter.com/ManishSamrats), Instagram (https://instagram.com/manish_samrat_)
+- 📫 How to reach me: twitter 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on something cool
 
 - 🌱 I’m currently learning Web design For Everybody
 
 - 📫 How to reach me: [twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
+
+#### Connect with me:
+
+[<img align="left" alt="LasyCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LasyCoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LasyCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ---
 
