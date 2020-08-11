@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Web design For Everybody
 
 - 📫 How to reach me: [twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
+
+
+
+<img = align="left" alt = "Anonymous's github stats" src = "https://github-readme-stats.vercel.app/api?username=lasycoder&show_icons=true&theme=radical" />
