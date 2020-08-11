@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: twitter 
+- 📫 How to reach me: [twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web design For Everybody
 
-- 📫 How to reach me: [twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
 
 #### Connect with me:
 
