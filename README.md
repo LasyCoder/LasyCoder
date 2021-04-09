@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web design For Everybody
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsamrat-3006/), [Twitter](https://twitter.com/ManishSamrats/), [Instagram](https://instagram.com/manish_samrat_/)
+
 
 #### Connect with me:
 
